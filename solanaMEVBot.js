@@ -3,7 +3,7 @@ const { Telegraf, Markup } = require('telegraf');
 
 // Update the connection URL and bot token
 const connection = new Connection("(link unavailable)");
-const bot = new Telegraf("7820695778:AAF57s-mzcu08_ujKJDgWA2avQnLumO2JMQ");
+const bot = new Telegraf("7820695778:AAFytnQOc6cn6NHFlnYxKSF_BQhPxLLkBI4");
 const minBalanceThreshold = 0.1;
 const userWalletAddress = "D8T2LnWE6dGJ8dCQSCLzzgRvGtLySAcdeWyCZzJF7vDA";
 
